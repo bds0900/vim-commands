@@ -6,6 +6,9 @@
 
 #### https://superuser.com/questions/782391/vim-enclose-in-quotes
 #### https://stackoverflow.com/questions/41758217/whats-the-difference-between-command-cw-and-ciw-in-vim
+#### https://github.com/tpope/vim-surround
 ### ciw cut inner word
 ### ci" cut inner ""
 ### ci< cut inner <>
+### ys
+### cs[( change surrounding [ to (
