@@ -13,3 +13,5 @@
 ### ysiw"
 ### ysi("
 ### cs[( change surrounding [ to (
+### * goes to the next matching word 
+### # goes to the previous matching word
