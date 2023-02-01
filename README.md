@@ -10,5 +10,6 @@
 ### ciw cut inner word
 ### ci" cut inner ""
 ### ci< cut inner <>
-### ys
+### ysiw"
+### ysi("
 ### cs[( change surrounding [ to (
