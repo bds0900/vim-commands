@@ -14,4 +14,6 @@
 ### ysi("
 ### cs[( change surrounding [ to (
 ### * goes to the next matching word 
-### # goes to the previous matching word
+### # goes to the previous matching word 
+### f{char} 다음 나타나는 char로 가기
+### t{char} 전에 나타난 char로 가기
