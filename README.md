@@ -10,6 +10,8 @@
 ### ciw cut inner word
 ### ci" cut inner ""
 ### ci< cut inner <>
+### di" delete inner ""
+### da" delete "" and inner ""
 ### ysiw"
 ### ysi("
 ### cs[( change surrounding [ to (
